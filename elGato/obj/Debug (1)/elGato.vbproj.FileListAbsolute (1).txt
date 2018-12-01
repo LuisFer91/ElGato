@@ -1,0 +1,13 @@
+c:\users\hp\source\repos\elGato\elGato\obj\Debug\elGato.vbprojAssemblyReference.cache
+c:\users\hp\source\repos\elGato\elGato\obj\Debug\elGato.menu.resources
+c:\users\hp\source\repos\elGato\elGato\obj\Debug\elGato.Resources.resources
+c:\users\hp\source\repos\elGato\elGato\obj\Debug\elGato.vbproj.GenerateResource.cache
+c:\users\hp\source\repos\elGato\elGato\obj\Debug\elGato.vbproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\elGato\elGato\bin\Debug\elGato.exe.config
+c:\users\hp\source\repos\elGato\elGato\bin\Debug\elGato.exe
+c:\users\hp\source\repos\elGato\elGato\bin\Debug\elGato.pdb
+c:\users\hp\source\repos\elGato\elGato\bin\Debug\elGato.xml
+c:\users\hp\source\repos\elGato\elGato\obj\Debug\elGato.exe
+c:\users\hp\source\repos\elGato\elGato\obj\Debug\elGato.xml
+c:\users\hp\source\repos\elGato\elGato\obj\Debug\elGato.pdb
+c:\users\hp\source\repos\elGato\elGato\obj\Debug\elGato.juego1.resources
